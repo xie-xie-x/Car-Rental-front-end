@@ -1,23 +1,3 @@
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [KanbanBoard](#kanban-board)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [📝 License](#license)
-
 # 📖 [Car Rental App] <a name="about-project"></a>
 
 <div align="center">
@@ -30,7 +10,7 @@
 
 > The **Car Rental App** is a comprehensive full-stack application where you can seamlessly explore an array of cars, search by name, delve into comprehensive car details, make reservations when logged in, manage reservations, add or delete cars in the database, and personalize your profile with ease. Built with React, Redux as Front-end and Ruby on Rails, PostgreSQL as Back-end API.
 
-- You can see the Back-end repo <a href="https://github.com/Rhaegar121/Car-Rental-back-end">here</a>.
+- You can see the Back-end repo <a href="https://github.com/xie-xie-x/Car-Rental-back-end">here</a>.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,13 +46,6 @@
 
 <!-- Kanban Board -->
 
-## Kanban Board <a name="kanban-board"></a>
-
-- [Kanban-Board-Front-End](https://github.com/users/Rhaegar121/projects/5)
-- [Kanban-Board-Back-End](https://github.com/users/Rhaegar121/projects/6)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running follow these simple example steps.
@@ -91,7 +64,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Rhaegar121/Car-Rental-front-end.git
+  git clone https://github.com/xie-xie-x/Car-Rental-front-end.git
 ```
 
 ## Install
@@ -104,46 +77,12 @@ Clone this repository to your desired folder:
 
 ``` npm start ```
 
-## 👥 Authors <a name="authors"></a>
-
-👤 **Rachel Issac**
-
-- GitHub: [Rachelwebdev](https://github.com/Rachelwebdev)
-- Twitter: [@rachelisaac13](https://twitter.com/Rachelisaac13)
-- LinkedIn: [Rachel Isaac](https://www.linkedin.com/in/rachelisaac13/)
-
-👤 **Kaung Myat Kyaw**
-
-- Portfolio: [rhbarry.me](https://rhbarry.me)
-- GitHub: [Rhaegar121](https://github.com/Rhaegar121)
-- Twitter [Rhaegar121](https://twitter.com/Rhaegar121)
-- LinkedIn: [Kaung Myat Kyaw](https://www.linkedin.com/in/kaungmyatkyaw/)
-
-👤 **Jerome Jay Osman**
-
-- GitHub: [@Jay G.O.](https://github.com/187jjay187)
-- LinkedIn: [Jerome Osman](https://www.linkedin.com/in/)
-
-👤 **Innocent N.**
-
-- GitHub: [@chaseknis](https://github.com/Chaseknis/)
-- Twitter: [@ChaseToTheWorld](https://twitter.com/chasetotheworld)
-- LinkedIn: [Innocent N.](https://www.linkedin.com/in/innocent-n-200826252/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **[Image_uploading_with_ActiveStorage]**
 - **[Token_based_authentication]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Rhaegar121/Capstone-Front-End/issues).
 
 ## ⭐️ Show your support <a name="support"></a>
 
